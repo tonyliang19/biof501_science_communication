@@ -1,8 +1,30 @@
----
-title: Presentation
-author: Tony Liang
-institute: University of British Columbia
-date: 2024-10-3
-date-format: long
-engine: knitr
----
+## Protein and their structure
+
+- Molecular element that ...
+
+- We know nothing about its structure
+
+
+
+## How do we know protein structure?
+
+-  X-ray crystallography 
+- cryo-electron microscopy
+- NMR spectroscopy
+
+- These are slow, expensive, limited
+
+
+# Thanks to magical AI {.highlight}
+
+
+## Alphafold
+
+- Fun story: how this came up initially
+- Easily tell what is protein structure
+- What could be done with this
+
+## Future with Alphafold
+
+- I dont know
+
