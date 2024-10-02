@@ -1,28 +1,40 @@
 ## Protein and their structure
 
 - Molecular element that ...
-
-- We know nothing about its structure
+- Involved in every important activity that happens inside every living thing
+- Protein folding matters but hard to solve
+- We knew 3D structures for only about 17% of roughly 20000 proteins in the human body
 
 
 
 ## How do we know protein structure?
 
+Maybe spend some money and do some lab work?
+
+. . .
+
+Tedious experimental methods like
+
+
+::: {.incremental}
+
 -  X-ray crystallography 
 - cryo-electron microscopy
 - NMR spectroscopy
+- We mean `multi-million` dollars and **months** or even **years**
 
-- These are slow, expensive, limited
-
+:::
 
 # Thanks to magical AI {.highlight}
 
 
 ## Alphafold
 
-- Fun story: how this came up initially
-- Easily tell what is protein structure
-- What could be done with this
+- Fun story: Rise from a competition "Olympics for protein folding"
+  - Given one dimensional amino acid sequence, can you predict the protein structure?
+- Artificial Intelligence tool that predicts protein structure from sequence.
+- Very well prediction to be within width about one atom
+- We know have ....
 
 ## Future with Alphafold
 
