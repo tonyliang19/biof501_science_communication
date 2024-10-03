@@ -1,29 +1,68 @@
-## Protein and their structure
+## What is protein?
 
-- Molecular element that ...
+- Building blocks of life.
 - Involved in every important activity that happens inside every living thing
 - Protein folding matters but hard to solve
 - We knew 3D structures for only about 17% of roughly 20000 proteins in the human body
 
+::: {.notes}
 
-
-## How do we know protein structure?
-
-Maybe spend some money and do some lab work?
-
-. . .
-
-Tedious experimental methods like
-
-
-::: {.incremental}
-
--  X-ray crystallography 
-- cryo-electron microscopy
-- NMR spectroscopy
-- We mean `multi-million` dollars and **months** or even **years**
+- Make analogy of think of proteins like tiny machines in the body that help build, repair, and protect.
 
 :::
+
+
+## What's special of protein structure? {.nostretch}
+
+::::: {.columns}
+
+
+:::: {.column width="70%"}
+
+- Protein [**function**]{.primary} is closely related to its structure.
+
+- So, knowing [**structure**]{.primary} helps scientists design new medicines and understand diseases.
+
+::: {.fragment}
+
+[However . . .]{.secondary}
+
+:::
+
+::: {.fragment}
+
+- Figuring out a protein's structure is extremely hard.
+
+- It's like solving 3D puzzle with thousands of pieces, yet [without knowing]{.quaternary} what the final picture looks like.
+
+- Usually done by long time and expensive experiments.
+  
+
+:::
+
+
+::::
+
+:::: {.column width="2%"}
+
+::::
+
+:::: {.column width="28%"}
+
+![Caption 1](figures/protein_struct.png){.stretch-protein}
+
+
+
+::::
+
+:::::
+
+::: {.notes}
+
+Like how the shape of a key fits a lock, a protein's shape determines how it interacts with other molecules.
+
+:::
+
 
 # Thanks to magical AI {.highlight}
 
