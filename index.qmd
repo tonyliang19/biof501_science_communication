@@ -1,9 +1,8 @@
 ## What is protein?
 
 - Building blocks of life.
-- Involved in every important activity that happens inside every living thing
-- Protein folding matters but hard to solve
-- We knew 3D structures for only about 17% of roughly 20000 proteins in the human body
+- Involved in every important activity that happens inside every living thing.
+- We know very few 3D structures of unique proteins, and through long time of studies.
 
 ::: {.notes}
 
@@ -29,7 +28,7 @@
 
 :::
 
-::: {.fragment}
+::: {.fragment .fade-up}
 
 - Figuring out a protein's structure is extremely hard.
 
@@ -49,7 +48,7 @@
 
 :::: {.column width="28%"}
 
-![Caption 1](figures/protein_struct.png){.stretch-protein}
+![Fig. 1 The various structures formed by amino acids and proteins.^[Adopted from https://theory.labster.com/protein-structure/]](figures/protein_struct.png){.stretch-protein}
 
 
 
@@ -69,13 +68,42 @@ Like how the shape of a key fits a lock, a protein's shape determines how it int
 
 ## Alphafold
 
-- Fun story: Rise from a competition "Olympics for protein folding"
-  - Given one dimensional amino acid sequence, can you predict the protein structure?
-- Artificial Intelligence tool that predicts protein structure from sequence.
-- Very well prediction to be within width about one atom
-- We know have ....
+:::: {.columns}
 
-## Future with Alphafold
+::: {.column width="42%"}
 
-- I dont know
+- Rise from a competition "Olympics for protein folding"
+  - Given an amino acid sequence, can you predict its protein structure?
+- **Artificial Intelligence** algorthim, fully computational
+- Very well prediction with [atomic accuracy]{.secondary}.
+
+:::
+
+::: {.column width="58%"}
+
+![Fig. 2: AlphaFold produces highly accurate structures. ^[@jumper2021highly]](figures/alphafold_result.png)
+
+:::
+
+::::
+
+::: {.notes}
+
+- Rise from 14th Critical Assessment of protein Structure Prediction (CASP14)
+
+- Before alpha, only small fraction (i.e. 100K of billions) of unique protein structure determined
+
+:::
+
+## How Alphafold works
+
+![Fig. 3: Basic workflow of Alphafold.](figures/alphafold-process.png)
+
+Alphafold can predict the potential structure from an amino acid sequence, [**super fast**]{.secondary} with fairly [**high accuracy**]{.secondary}.
+
+# Thanks! {.thanks}
+
+## References
+
+
 
