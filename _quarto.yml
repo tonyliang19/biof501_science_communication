@@ -14,8 +14,8 @@ format:
     footnotes-hover:  true
     #chalkboard: true
     embed-resources: true
-    width: 1280
-    height: 720
+    width: 1600
+    height: 900
     mouse-wheel: false
     scrollable: false
     code-overflow: wrap

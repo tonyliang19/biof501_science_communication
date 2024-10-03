@@ -2,7 +2,11 @@
 
 - Building blocks of life.
 - Involved in every important activity that happens inside every living thing.
-- We know very few 3D structures of unique proteins, and through long time of studies.
+  - Muscle movement
+  - Digestion
+  - Oxygen transport
+  - And **more** . . .
+
 
 ::: {.notes}
 
@@ -58,13 +62,23 @@
 
 ::: {.notes}
 
-Like how the shape of a key fits a lock, a protein's shape determines how it interacts with other molecules.
+- Like how the shape of a key fits a lock, a protein's shape determines how it interacts with other molecules.
+
+- We know very few 3D structures of unique proteins, and through long time of studies.
+
+- Protein are composed by these various small elements amino acids, combination of these can determine its 3D structure, thus its function
 
 :::
 
 
-# Thanks to magical AI {.highlight}
 
+
+
+## How Alphafold works
+
+![Fig. 2: Basic workflow of Alphafold.](figures/alphafold-process.png)
+
+Alphafold can predict the potential structure from an amino acid sequence, [**super fast**]{.secondary} with fairly [**high accuracy**]{.secondary}.
 
 ## Alphafold
 
@@ -81,7 +95,7 @@ Like how the shape of a key fits a lock, a protein's shape determines how it int
 
 ::: {.column width="58%"}
 
-![Fig. 2: AlphaFold produces highly accurate structures. ^[@jumper2021highly]](figures/alphafold_result.png)
+![Fig. 3 AlphaFold produces highly accurate structures. ^[@jumper2021highly]](figures/alphafold_result.png)
 
 :::
 
@@ -89,17 +103,16 @@ Like how the shape of a key fits a lock, a protein's shape determines how it int
 
 ::: {.notes}
 
+- X asis were top 15 groups out of 146 groups, performance of the CASP14 dataset (n = 87 protein domains)
+
+- Y asis is median root mean squared deviation, similarity between atomic coordinates
+
 - Rise from 14th Critical Assessment of protein Structure Prediction (CASP14)
 
 - Before alpha, only small fraction (i.e. 100K of billions) of unique protein structure determined
 
 :::
 
-## How Alphafold works
-
-![Fig. 3: Basic workflow of Alphafold.](figures/alphafold-process.png)
-
-Alphafold can predict the potential structure from an amino acid sequence, [**super fast**]{.secondary} with fairly [**high accuracy**]{.secondary}.
 
 # Thanks! {.thanks}
 
