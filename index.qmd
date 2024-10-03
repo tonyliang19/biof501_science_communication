@@ -116,7 +116,11 @@ Alphafold can predict the potential structure from an amino acid sequence, [**su
 
 # Thanks! {.thanks}
 
-## References
+## Supplementary
 
+![Fig. 4 Architectural details of Alphafold](figures/alphafold-architecture.png)
+
+
+## References {.references}
 
 
