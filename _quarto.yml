@@ -3,6 +3,7 @@ author: Tony Liang
 institute: University of British Columbia
 date: 2024-10-3
 date-format: long
+bibliography: references.bib
 engine: knitr
 format:
   revealjs:
